@@ -3,7 +3,7 @@
 <p align="center"> I am Krushnakant Bhattad 
     <br> UG Sophomore studying at CSE, IIT Bombay. 
     <br> Pursuing a minor in Applied Statistics and Informatics
-    <br> Data Analyst at Insight, IIT Bombay 
+    <br> Research Intern at TU Braunshweig
 </p>
 
 <p align="center">
