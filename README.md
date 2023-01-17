@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p align="center"> I am Krushnakant Bhattad 
-    <br> UG Sophomore studying at CSE, IIT Bombay. 
-    <br> Pursuing a minor in Applied Statistics and Informatics
-    <br> Research Intern at TU Braunshweig
+    <br> UG Senior studying at CSE, IIT Bombay. 
 </p>
 
 <p align="center">
